@@ -1,0 +1,17 @@
+{
+  "name": "collectionassert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "collectionAssert.js",
+  "scripts": {
+    "test": "mocha tests.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rx": "^4.0.7"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
